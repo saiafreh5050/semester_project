@@ -1,0 +1,68 @@
+Index number:UEB3205722
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Cup Tournament</title>
+</head>
+<body>
+    <table rules="all" border="1" width="50%">
+        <tr>
+            <td>
+                <h1 style="text-align: center;">FIFA WORLD CUP PAIRINGS</h1>
+                <table rules="all" border="1" width="100%">
+                    <tr>
+                        <th>GROUP A</th>
+                        <th>GROUP B</th>
+                        <th>GROUP C</th>
+                    </tr>
+                    <tr>
+                        <td>Ghana</td>
+                        <td>Brazil</td>
+                        <td>Argentina</td>
+                    </tr>
+                    <tr>
+                        <td>Portugal</td>
+                        <td>England</td>
+                        <td>France</td>
+                    </tr>
+                    <tr>
+                        <td>Canada</td>
+                        <td>Switzerland</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Uruguay</td>
+                        <td>Senegal</td>
+                        <td>Cameroon</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Page</title>
+</head>
+<body>
+    <center>
+        <h2>CONTACT PAGE</h2>
+        <img src="profile.png" alt="Profile Icon" width="100">
+        <p>Name:  Sai Afreh Eugene </p>
+        <p>Phone Number: NUMBER 0243267034</p>
+        <p>Email Address: saiafreheu@gmail.com</p>
+        <p>Program: Bsc.Information technology </p>
+        <p>Level: 300</p>
+        <p>Index Number: N
+UEB3205722</p>
+    </center>
+</body>
+</html>
